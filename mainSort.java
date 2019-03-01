@@ -94,7 +94,7 @@ public class mainSort {
 			//get and print time
 			long endTime   = System.nanoTime();
 			long totalTime = endTime - startTime;
-			System.out.println("Time(seeconds): "+(Math.pow(10, -9) )*totalTime);
+			System.out.println("Time(seconds): "+(Math.pow(10, -9) )*totalTime);
 			
 			
 			
